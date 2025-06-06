@@ -47,7 +47,7 @@
     "webpack-bundle-analyzer": "^3.0.3",
     "webpack-cli": "^3.2.1",
     "webpack-dev-middleware": "^3.5.0",
-    "webpack-dev-server": "^3.1.14",
+    "webpack-dev-server": "^5.2.1",
     "webpack-hot-middleware": "^2.24.3",
     "write-file-webpack-plugin": "^4.5.0"
   },
